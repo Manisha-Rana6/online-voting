@@ -1,0 +1,30 @@
+body{
+
+    text-align: center;
+    background-image: url("Voto-electrónico.jpeg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position:center;
+background-size: cover;
+}
+
+}
+#headersection{
+    padding: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#dropbox{
+
+        padding: 10px;
+        border-radius: 5px;
+width: 15%;
+}
+#btn{
+    padding: 5px;
+    border-radius: 4px;
+    background-color: blue;
+    width:5%;
+}
